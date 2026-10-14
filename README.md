@@ -1,2 +1,22 @@
-# getupizer-android-beta
-Official GetUpizer Android beta releases, tester instructions and release news. No application source code.
+# GetUpizer Android Beta
+
+Official public distribution point for invited GetUpizer Android beta testers. This repository contains release APK files, tester instructions, release notes and public beta news only. Application source code and infrastructure are kept in a separate private repository.
+
+## Download
+
+Open [Releases](https://github.com/BearNick/getupizer-android-beta/releases), choose the newest pre-release and download the attached `.apk` file. Verify its SHA-256 digest against the value shown by GitHub before installation.
+
+## Installation
+
+1. Download the APK directly from the selected GitHub Release.
+2. Android may ask permission to install apps from the browser or file manager used to open it.
+3. Install the APK and sign in with your assigned GetUpizer test account.
+4. Disable the temporary unknown-app installation permission afterwards if you do not normally use it.
+
+## Feedback
+
+Use [Issues](https://github.com/BearNick/getupizer-android-beta/issues) for reproducible beta feedback. Include device model, Android version, app version, expected result and actual result. Do not publish passwords, authentication codes, private messages, personal data or sensitive screenshots.
+
+## Status
+
+These APKs are pre-release builds for controlled testing and are not Google Play production releases. Google Play Internal Testing will be provided separately.
