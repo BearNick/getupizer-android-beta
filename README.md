@@ -6,7 +6,7 @@ Official public distribution point for invited GetUpizer Android beta testers. T
 
 Download the [latest Android beta](https://github.com/BearNick/getupizer-android-beta/releases/latest) and select the attached `.apk` file. Verify its SHA-256 digest against the value published in the release notes before installation.
 
-Current public beta: **0.1.22 (build 23)**.
+Current public beta: **0.1.23 (build 24)**.
 
 ## Installation
 
