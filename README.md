@@ -1,6 +1,6 @@
 # GetUpizer Android Beta
 
-Official public distribution point for invited GetUpizer Android beta testers. This repository contains release APK files, tester instructions, release notes and public beta news only. Application source code and infrastructure are kept in a separate private repository.
+Official public distribution point for invited GetUpizer Android beta testers — and we are looking for more testers (see below). This repository contains release APK files, tester instructions, release notes and public beta news only. Application source code and infrastructure are kept in a separate private repository.
 
 ## Download
 
@@ -9,6 +9,10 @@ Download the [latest Android beta](https://github.com/BearNick/getupizer-android
 Current public beta: **0.1.30 (build 31)**.
 
 > **One-time reinstall from 0.1.23 or older.** Since 0.1.24 the beta is signed with a new release key. If you have 0.1.23 or older, uninstall it first, then install the latest beta and sign in again. Your account and content are kept on the server. Later betas update in place as usual.
+
+## Testers wanted
+
+We are looking for more beta testers — Android phones and the web app (an iOS build will follow). To join, write to **[support@getupizer.com](mailto:support@getupizer.com)** with the email address you want to use and your platform (Android / iPhone / web). You will get an invitation to register; no account details are needed in your message.
 
 ## Installation
 
