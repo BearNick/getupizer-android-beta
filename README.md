@@ -12,7 +12,7 @@ Current public beta: **0.1.30 (build 31)**.
 
 ## Testers wanted
 
-We are looking for more beta testers — Android phones and the web app (an iOS build will follow). To join, write to **[support@getupizer.com](mailto:support@getupizer.com)** with the email address you want to use and your platform (Android / iPhone / web). You will get an invitation to register; no account details are needed in your message.
+We are looking for more beta testers — Android phones and the web app (an iOS build will follow). The quickest way is the form at **[getupizer.com/download#tester-access](https://getupizer.com/download#tester-access)**: leave your email and platform, confirm the address, and you will get an invitation once the request is approved. You can also write to **[support@getupizer.com](mailto:support@getupizer.com)** with the email address you want to use and your platform (Android / iPhone / web). You will get an invitation to register; no account details are needed in your message.
 
 ## Installation
 
